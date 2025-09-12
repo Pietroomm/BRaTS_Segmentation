@@ -36,7 +36,6 @@ Ground truth masks are provided as 3-channel tensors indicating tumor tissue typ
     
 3- Hyperparameter Tuning
   - Automated tuning with Optuna for dropout and learning rate.
-  - Ran 30 iterations to minimize loss effectively.
     
 4- Quantitative Evaluation
   - Metrics: Dice loss, Dice score, IoU, Precision, Recall.
